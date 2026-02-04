@@ -1,2 +1,2 @@
-# Divisibility-by-3
+# Divisibility-Rule-of-3
 A number is divisible by 3 if the sum of its digits is divisible by 3.
